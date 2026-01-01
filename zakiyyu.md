@@ -1,7 +1,7 @@
 # ENGR. ZAKIYYU SUNUSI SULEIMAN
 ## just started
 I can write in bold and itelics
-### **_thank you Engr. Abubakar Muhammad Danhaya_**
+### _thank you Engr. Abubakar Muhammad Danhaya_
 #### Area of trapezium
 $A = 1/2(a+b)h$
 #### Area of Circle
@@ -22,3 +22,6 @@ $A = {\pi r^2}h$
 1. eleven
 2. thirteen
 3. fourteen
+4. seventeen
+5. twenty five 
+6. twenty six
